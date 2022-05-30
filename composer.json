@@ -1,10 +1,10 @@
 {
-    "name": "docparser/docparser-php",
+    "name": "tnlsystems/docparser-php",
     "description": "Docparser API PHP Client",
     "type": "library",
     "license": "MIT",
     "require": {
-        "guzzlehttp/guzzle": "~6.0"
+        "guzzlehttp/guzzle": "~7.4"
     },
     "autoload": {
     	"psr-4": { "Docparser\\": "src/Docparser" }
